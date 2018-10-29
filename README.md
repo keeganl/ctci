@@ -1,2 +1,1 @@
-# ctci
-## Repository for the problems from Cracking the Coding Interview
+# Repository for the problems from Cracking the Coding Interview
